@@ -47,7 +47,7 @@ The analysis of the loan dataset reveals five key driving variables:
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
+
 - Group Facilitator: Raghav Mishra
 - Group Member: Gayathri Perumal 
 
