@@ -24,7 +24,7 @@ Datset used "loan.csv", It contains the complete loan data for all loans issued 
 ## Conclusions
 # Driving Factors :
 
-The analysis of the loan dataset reveals five key driving variables:
+The analysis of the loan dataset reveals seven key driving variables:
 
 1. Home Ownership: The majority of loan applicants have home ownership of 'RENT' (47.58%). Most of the defaulters(Charged Off) belong to the Rent home ownership category.
 2. Loan Purpose: Most of the defaulters(Charged Off) belong to the Debt consolidation loan purpose category.
